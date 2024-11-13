@@ -12,6 +12,11 @@ The following are the questions I had to find answers for:
 - 4_Top_paying_companies_for_the_highly-demanded_job_for_remote_work._and_require_no_degree
 - 5_high_demand_and__high-paying_jobs
 
+# Source of Dataset
+
+I downloaded the data set from <a href="https://drive.google.com/file/d/1KZmnzNo3EKnbpSuQCTVMPT6F3osVue5h/view?usp=drive_link">link</a> (csv_files). They are not included in the files I uploaded here (on github) because these files are too big and github cannot support them.
+
+
 # Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
