@@ -70,8 +70,9 @@ ORDER BY
 LIMIT 10;
 ```
 
-When I exported this result to MS Excel, I obtained these results.
+I obtained these results.
 
+![Screenshot of highest paying jobs](https://github.com/user-attachments/assets/b1868789-1ac1-4d38-b374-513985c3972d)
 
 These results show that the data analyst role is the highest paying remote job.
 
@@ -110,6 +111,7 @@ ORDER BY Month_Number;
 ```
 The following are the results I obtained.
 
+![Screenshot of when the most data analyst jobs were posted](https://github.com/user-attachments/assets/f1349992-2c36-46d4-87be-24b508d886ae)
 
 Basing on the fact that the data analyst role is the highest on demand and highest paying, the results above show the months in which this role is posted the most. This means that the best moth to apply is January and the least is May.
 
@@ -140,6 +142,7 @@ LIMIT 25;
 ```
 These are the results I obtained.
 
+![Screenshot of high demand and high-payng data analyst job skills](https://github.com/user-attachments/assets/b6868e4e-9137-401e-8cf0-7c00bc1fffb1)
 
 This table shows the highest paying and most needed skills for the data analyst job. These are the skills you need to put much emphasis on while learning.
 
@@ -167,11 +170,18 @@ LIMIT 10;
 ```
 The following are the results I obtained.
 
+![Top paying companies](https://github.com/user-attachments/assets/f3d93aec-1ff5-4f09-bb8f-6948db658e1b)
 
 Lastly, the companies shown above are those that pay the highest. They are the ones you should look out for.
 
-
-# What I Learned
-
-
 # Conclusions
+
+### Insights
+1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
+2. **Skills for Top-Paying Jobs**: High-paying data analyst jobs require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
+3. **Most In-Demand Skills**: SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
+4. **Skills with Higher Salaries**: Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise. I
+5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
+
+### Closing Thoughts
+The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics
